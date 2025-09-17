@@ -1,3 +1,3 @@
-fichero creado en Ubuntu
-Otra linea a las 13:10
+fichero creado en Ubuntu #linea modificada
+#linea borrada
 Un cambio mas desde el servidor
